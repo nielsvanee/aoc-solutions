@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "name": "aoc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "day1-1.js",
+  "author": "",
+  "license": "ISC"
+}
